@@ -8,7 +8,7 @@ public class GitDemo1 {
 	
 	@Test
 	public void demo1(){
-		System.out.println("this is my first git project");
+		System.out.println("this is my first git project add merge test");
 	}
 	
 }
